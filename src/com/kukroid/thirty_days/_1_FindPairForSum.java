@@ -2,7 +2,7 @@ package com.kukroid.thirty_days;
 
 import java.util.HashMap;
 
-public class FindPairForSum {
+public class _1_FindPairForSum {
     /*
     * arr = [8, 7, 2, 5, 3, 1]
     * sum = 10
